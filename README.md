@@ -1,7 +1,7 @@
 
 # Epidura: Staged Remote IPC Process Injection Tool
 
-Project **Epidura** is a rust-based module that performs **Staged Remote Command Injection** and **IPC Hijacking**. By separating the payload delivery from the execution trigger, this tool effectively bypasses traditional behavioral heuristics that rely on the suspicious triad of immediate memory allocation and execution.
+Epidura demonstrates staged RCE via process injection and **IPC Hijacking**. This tool bypasses traditional behavioral heuristics that rely on immediate memory allocation and execution, by separating the payload delivery from the execution trigger.
 
 **⚠️ Please Note**: This project is strictly for **Educational and Authorized Penetration Testing**. I am not responsible for any of the shenanigans you guys pull.
 
