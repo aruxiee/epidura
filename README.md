@@ -1,5 +1,5 @@
 
-# Epidura: Staged Remote IPC Process Injection Tool
+# 💉 epidura: Staged Remote IPC Process Injection Tool
 
 Epidura demonstrates staged RCE via process injection and **IPC Hijacking**. This tool bypasses traditional behavioral heuristics that rely on immediate memory allocation and execution, by separating the payload delivery from the execution trigger.
 
